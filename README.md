@@ -17,3 +17,5 @@ A smart tool to analyze time complexity of code using pattern detection.
 ## ▶️ How to Run
 ```bash
 streamlit run app.py
+## 🌐 Live Demo
+https://code-analyzer-nishtha.streamlit.app/
